@@ -1659,7 +1659,7 @@
 
 	#nav {
 		cursor: default;
-		padding: 0px 0px 0px 0px;
+		padding: 0px;
 	}
 
 		#nav > ul > li > a {
