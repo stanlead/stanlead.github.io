@@ -2386,7 +2386,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 0 20px 0 20px;
+				padding: 0px; /* 20px 0 20px; */
 			}
 
 			#features-wrapper {
