@@ -15,7 +15,7 @@ body, div, h1, h2, h3, h4, h5, h6, ul, li, ol, img, form {
 
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	background: #fff url(img/Untitled-2.jpg) repeat-x;
+	background: #fff url(images/Untitled-2.jpg) repeat-x;
 }
 
 #container {
@@ -31,7 +31,7 @@ body {
 #header h1 a {
 	display: block;
 	float: left;
-	background: url(img/logo.png) no-repeat;
+	background: url(images/Pano_Banner.JPG) no-repeat;
 	text-indent: -9999px;
 	height: 78px;
 	width: 358px;
@@ -74,7 +74,7 @@ body {
 		width: 427px;
 		height: 125px;
 		margin: 43px 0 21px 0;
-		background: url(img/quote.png);
+		background: url(images/banner.jpg);
 		text-indent: -9999px;
 	}
 	
@@ -125,12 +125,12 @@ body {
 	width: 263px;
 	min-height: 305px;
 	float: left;
-	background: url(img/sidebg.jpg) top no-repeat;
+	background: url(images/LauraLinkedInPhoto.jpg) top no-repeat;
 	margin: 
 }
 
 	#content #side div.news h4 {
-	background: url(img/news.png) top no-repeat;
+	background: url(images/COLake.jpg) top no-repeat;
 	height: 39px;
 	width: 183px;
 	text-indent: -9999px;
@@ -156,7 +156,7 @@ body {
 
 #footer {
 	width: 960px;
-	background: url(img/footershadow.jpg) center top no-repeat;
+	background: url(images/ProfilePhoto.JPG) center top no-repeat;
 	margin: 0 auto;
 	padding: 22px 0 25px 0;
 }
